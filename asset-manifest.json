@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jongsoo/static/css/main.d1b05096.chunk.css",
+    "main.js": "/jongsoo/static/js/main.fefd9909.chunk.js",
+    "main.js.map": "/jongsoo/static/js/main.fefd9909.chunk.js.map",
+    "runtime-main.js": "/jongsoo/static/js/runtime-main.8548dbfa.js",
+    "runtime-main.js.map": "/jongsoo/static/js/runtime-main.8548dbfa.js.map",
+    "static/js/2.749a6afa.chunk.js": "/jongsoo/static/js/2.749a6afa.chunk.js",
+    "static/js/2.749a6afa.chunk.js.map": "/jongsoo/static/js/2.749a6afa.chunk.js.map",
+    "index.html": "/jongsoo/index.html",
+    "precache-manifest.0f33971dea3e0aadbe06aca464e1e969.js": "/jongsoo/precache-manifest.0f33971dea3e0aadbe06aca464e1e969.js",
+    "service-worker.js": "/jongsoo/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/jongsoo/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.749a6afa.chunk.js.LICENSE.txt": "/jongsoo/static/js/2.749a6afa.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/jongsoo/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8548dbfa.js",
+    "static/js/2.749a6afa.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.fefd9909.chunk.js"
+  ]
+}
